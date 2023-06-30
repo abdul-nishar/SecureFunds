@@ -295,3 +295,9 @@ h2 {
 .timer {
   font-weight: 600;
 }
+
+.test-case {
+  position: absolute;
+  top: 44%;
+  left: 40%;
+}
